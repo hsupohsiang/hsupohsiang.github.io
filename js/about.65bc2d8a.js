@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{f820:function(e,t,n){"use strict";n.r(t);var a=n("7a23"),c={class:"about"},o=Object(a["j"])("h1",null,"About",-1),u=Object(a["j"])("p",null,"We are a team from the NTHU, and we all like the blockchain.",-1),b=[o,u];function i(e,t,n,o,u,i){return Object(a["E"])(),Object(a["i"])("div",c,b)}var l={setup:function(){}},r=n("6b0d"),s=n.n(r);const d=s()(l,[["render",i]]);t["default"]=d}}]);
+//# sourceMappingURL=about.65bc2d8a.js.map
